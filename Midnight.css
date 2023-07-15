@@ -38,3 +38,16 @@
 .videoGrid-1tZm-F {
     background-color: rgb(var(--backgroundprimary));
 }
+
+.button-ejjZWC,
+.withTagAsButton-OsgQ9L, .withTagless-10ooWt,
+.closedFolderIconWrapper-3tRb2d,
+.folder-241Joy,
+.content-1gYQeQ, .mainContent-20q_Hp,
+.scrollableContainer-15eg7h {
+        border-radius: 15px !important;
+}
+
+.expandedFolderBackground-1kSAf6 {
+    background-color: var(--background-primary) !important;
+}
