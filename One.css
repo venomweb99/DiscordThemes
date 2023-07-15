@@ -7,6 +7,8 @@
     height: 29px;
 }
 
-.content-1jQy2l {
+.content-1jQy2l,
+.withFrame-2dL45i,
+.platform-osx .scroller-3X7KbA, .platform-win .scroller-3X7KbA{
     background-color: black;
 }
