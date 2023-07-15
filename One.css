@@ -1,6 +1,7 @@
 .withFrame-2dL45i {
-    height: 30px;
+    height: 26px;
     margin-top: 0px;
+    padding-top: 4px;
 }
 .winButton-3UMjdg {
     width: 45px;
@@ -9,11 +10,18 @@
 
 .content-1jQy2l,
 .withFrame-2dL45i,
-.platform-osx .scroller-3X7KbA, .platform-win .scroller-3X7KbA{
+.platform-osx .scroller-3X7KbA, .platform-win .scroller-3X7KbA,
+.theme-dark .form-3gdLxP:before
+{
     background-color: black;
 }
 
 .theme-dark .container-1NXEtd {
     background: none;
     background-color: #171717;
+}
+.base-2jDfDU, .sidebar-1tnWFu,
+.sidebar-1tnWFu,
+.content-1SgpWY {
+background: none;
 }
