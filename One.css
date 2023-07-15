@@ -1,11 +1,6 @@
-:root{
-    --bg-color-outer: black;
-    --bg-color-main: #171717;
-}
-
 .withFrame-2dL45i {
-    height: 26px;
-    margin-top: 4px;
+    height: 23px;
+    margin-top: 5px;
 }
 .winButton-3UMjdg {
     width: 45px;
@@ -13,5 +8,5 @@
 }
 
 .content-1jQy2l {
-    background-color: var(--bg-color-main);
+    background-color: black;
 }
