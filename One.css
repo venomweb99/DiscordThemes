@@ -12,3 +12,8 @@
 .platform-osx .scroller-3X7KbA, .platform-win .scroller-3X7KbA{
     background-color: black;
 }
+
+.theme-dark .container-1NXEtd {
+    background: none;
+    background-color: #171717;
+}
